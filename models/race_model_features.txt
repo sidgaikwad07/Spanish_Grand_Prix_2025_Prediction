@@ -1,0 +1,17 @@
+DriverAvgPace
+Pressure_hPa
+StintLength
+DriverSessionLapCount
+DewPoint_C
+AdjustedLapTime
+LapTimeSeconds
+AvgTemp
+Humidity
+IsFastLap
+RainProbability
+TeamMedianPace
+RainAmount_mm
+UVIndex
+WindSpeed_mps
+IsCleanAir
+IsSpanishGP
